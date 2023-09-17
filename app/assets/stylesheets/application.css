@@ -13,3 +13,23 @@
  *= require_tree .
  *= require_self
  */
+.annas-banner{
+  width: 100vw;
+  height: 15vh;
+  background-color: lightgrey;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.annas-centre{
+  width: 90%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.bnts{
+  display: flex;
+  align-items:flex-end;
+}
